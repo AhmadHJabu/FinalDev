@@ -910,7 +910,7 @@ a:active {
 }
 
 .default-header .dropdown-item {
-    font-size: 16px;
+    font-size: 15px;
     width: auto !important;
     text-align: left
 }
@@ -923,7 +923,7 @@ a:active {
 }
 
 .default-header .dropdown-item {
-    font-size: 14px;
+    font-size: 15px;
     width: auto !important;
     text-align: left
 }
@@ -1011,7 +1011,7 @@ a:active {
 
 .navbar-nav a {
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400;
     font-family: "Lora", serif;
     color: rgb(255, 255, 255);
