@@ -564,7 +564,8 @@ th {
 
 .section-title h2 {
     font-size: 42px;
-    line-height: 33px
+    line-height: 33px;
+
 }
 
 @media (max-width: 991px) {
@@ -574,8 +575,18 @@ th {
     }
 }
 
-.section-title h2 span {
-    color: #ff573d
+.section-title h2.title {
+    font-size: 42px;
+    line-height: 33px;
+    color: #fff;
+
+}
+
+@media (max-width: 991px) {
+    .section-title h2 {
+        font-size: 30px;
+        line-height: 30px
+    }
 }
 
 .primary-btn {
